@@ -1,0 +1,10 @@
+0 Bendamicina
+1 Clindamicina
+2 Clorofenamina
+3 Diclofenaco
+4 Ibuprofeno
+5 Loperamida
+6 Loratadina
+7 Naproxeno
+8 Omeprazol
+9 Paracetamol
